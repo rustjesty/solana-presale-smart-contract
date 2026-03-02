@@ -162,4 +162,4 @@ MIT
 
 ## Contact
 
-Telegram: [https://t.me/soljesty](https://t.me/soljesty)
+Telegram: [https://t.me/soljesty](https://t.me/rustjesty)
